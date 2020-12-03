@@ -23,5 +23,5 @@
   <project remote="freescale" revision="dunfell" name="Documentation" path="sources/Documentation"/>
   
   <project remote="neeveecomm" revision="dunfell" name="meta-udoo" path="sources/meta-udoo"/>
-  <project remote="qt5" revision="dunfell" name="meta-qt5" path="sources/meta-qt5"/>
+  
 </manifest>
